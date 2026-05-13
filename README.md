@@ -10,6 +10,7 @@
 
 ## Array
 <details>
+## Array
 <summary>Click to expand Array problems</summary>
 
 | # | Problem | Difficulty |
