@@ -7,8 +7,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Total solved | 3 |
-| ✅ Easy | 3 |
+| Total solved | 4 |
+| ✅ Easy | 4 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 | Current streak | 1 days |
@@ -19,8 +19,8 @@
 
 | Topic | Count | % |
 |-------|-------|---|
-| Array | 3 | 100.0% |
-| Hash Table | 3 | 100.0% |
+| Array | 4 | 100.0% |
+| Hash Table | 4 | 100.0% |
 
 ## 🕐 Recent Solutions
 
