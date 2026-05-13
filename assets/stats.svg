@@ -15,12 +15,12 @@
   
   <!-- Stats Segments (using stroke-dasharray) -->
   <circle cx="150" cy="150" r="100" class="easy" 
-    stroke-dasharray="471.23889803846896 628.3185307179587" 
+    stroke-dasharray="502.65482457436696 628.3185307179587" 
     transform="rotate(-90 150 150)" />
     
   <circle cx="150" cy="150" r="100" class="medium" 
-    stroke-dasharray="157.07963267948966 628.3185307179587" 
-    stroke-dashoffset="-471.23889803846896"
+    stroke-dasharray="125.66370614359174 628.3185307179587" 
+    stroke-dashoffset="-502.65482457436696"
     transform="rotate(-90 150 150)" />
     
   <circle cx="150" cy="150" r="100" class="hard" 
@@ -29,13 +29,13 @@
     transform="rotate(-90 150 150)" />
 
   <!-- Center Text -->
-  <text x="150" y="140" text-anchor="middle" class="text-main" style="font-size: 48px;">4</text>
+  <text x="150" y="140" text-anchor="middle" class="text-main" style="font-size: 48px;">5</text>
   <text x="150" y="170" text-anchor="middle" class="text-sub">Solved</text>
   
   <!-- Legend -->
   <g transform="translate(40, 240)">
     <circle r="4" fill="#22c55e" />
-    <text x="12" y="5" class="text-sub" style="font-size: 12px;">Easy: 3</text>
+    <text x="12" y="5" class="text-sub" style="font-size: 12px;">Easy: 4</text>
     
     <circle cx="80" r="4" fill="#eab308" />
     <text x="92" y="5" class="text-sub" style="font-size: 12px;">Med: 1</text>
