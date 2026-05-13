@@ -21,16 +21,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### General
-<details>
-<summary>Click to expand General problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| — | [Two Sum](./General/Two%20Sum/) | Medium |
-
-</details>
-
 
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
