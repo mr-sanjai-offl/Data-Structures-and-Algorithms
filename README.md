@@ -7,21 +7,19 @@
 
 | Metric | Value |
 |--------|-------|
-| Total solved | 2 |
-| ✅ Easy | 1 |
-| 🟡 Medium | 1 |
+| Total solved | 0 |
+| ✅ Easy | 0 |
+| 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| Current streak | 1 days |
-| Longest streak | 1 days |
-| Last solved | Two Sum on May 13, 2026 |
+| Current streak | 0 days |
+| Longest streak | 0 days |
+| Last solved | — |
 
 ## 📂 By Topic
 
 | Topic | Count | % |
 |-------|-------|---|
-| Array | 1 | 50.0% |
-| Hash Table | 1 | 50.0% |
-| uncategorized | 1 | 50.0% |
+| — | — | — |
 
 ## 🕐 Recent Solutions
 
