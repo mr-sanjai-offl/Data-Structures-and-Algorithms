@@ -13,6 +13,7 @@
 |---|---------|------------|---------------|
 | — | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy | [View](./Array/Pascal's%20Triangle/) |
 | — | [Pascal's Triangle](./Array/pascals-triangle/) | Easy | [View](./Array/pascals-triangle/) |
+| — | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy | [View](./Array/Pascal's%20Triangle/) |
 | — | [Pascal's Triangle](./Array/pascals-triangle/) | Easy | [View](./Array/pascals-triangle/) |
 | — | [Pascal's Triangle](./Array/pascals-triangle/) | Easy | [View](./Array/pascals-triangle/) |
 | — | [Pascal's Triangle](./Array/pascals-triangle/) | Easy | [View](./Array/pascals-triangle/) |
@@ -41,8 +42,8 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Problems Solved | 9 |
-| 🟢 Easy | 7 |
+| Total Problems Solved | 10 |
+| 🟢 Easy | 8 |
 | 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
 | 🛠️ Languages Used | python, python3 |
