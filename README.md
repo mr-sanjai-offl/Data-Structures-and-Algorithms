@@ -14,7 +14,7 @@
 
 | # | Problem | Difficulty | Solution Link |
 |---|---------|------------|---------------|
-| — | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy | [View](./Array/Pascal's%20Triangle/) |
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy | [View](./Array/Pascal's%20Triangle/) |
 
 </details>
 
