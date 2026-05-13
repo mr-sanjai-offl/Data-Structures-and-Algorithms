@@ -20,6 +20,18 @@
 
 ---
 
+## Math
+<details>
+<summary>Click to expand Math problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| — | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+
+</details>
+
+---
+
 ## uncategorized
 <details>
 <summary>Click to expand uncategorized problems</summary>
