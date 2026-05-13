@@ -29,13 +29,13 @@
     transform="rotate(-90 150 150)" />
 
   <!-- Center Text -->
-  <text x="150" y="140" text-anchor="middle" class="text-main" style="font-size: 48px;">1</text>
+  <text x="150" y="140" text-anchor="middle" class="text-main" style="font-size: 48px;">3</text>
   <text x="150" y="170" text-anchor="middle" class="text-sub">Solved</text>
   
   <!-- Legend -->
   <g transform="translate(40, 240)">
     <circle r="4" fill="#22c55e" />
-    <text x="12" y="5" class="text-sub" style="font-size: 12px;">Easy: 1</text>
+    <text x="12" y="5" class="text-sub" style="font-size: 12px;">Easy: 3</text>
     
     <circle cx="80" r="4" fill="#eab308" />
     <text x="92" y="5" class="text-sub" style="font-size: 12px;">Med: 0</text>

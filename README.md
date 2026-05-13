@@ -11,8 +11,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Total solved | 1 |
-| ✅ Easy | 1 |
+| Total solved | 3 |
+| ✅ Easy | 3 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 | Current streak | 1 days |
@@ -23,8 +23,9 @@
 
 | Topic | Count | % |
 |-------|-------|---|
-| Array | 1 | 100.0% |
-| Dynamic Programming | 1 | 100.0% |
+| Array | 3 | 100.0% |
+| Dynamic Programming | 2 | 66.7% |
+| Hash Table | 1 | 33.3% |
 
 ## 🕐 Recent Solutions
 
