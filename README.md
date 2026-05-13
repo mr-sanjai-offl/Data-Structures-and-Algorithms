@@ -21,6 +21,18 @@
 
 ---
 
+## Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
+
+</details>
+
+---
+
 ## Math
 <details>
 <summary>Click to expand Math problems</summary>
