@@ -15,6 +15,7 @@
 | # | Problem | Difficulty |
 |---|---------|------------|
 | — | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 
 </details>
 
