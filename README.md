@@ -11,19 +11,20 @@
 
 | Metric | Value |
 |--------|-------|
-| Total solved | 0 |
-| ✅ Easy | 0 |
+| Total solved | 1 |
+| ✅ Easy | 1 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| Current streak | 0 days |
-| Longest streak | 0 days |
-| Last solved | — |
+| Current streak | 1 days |
+| Longest streak | 1 days |
+| Last solved | Pascal's Triangle on May 13, 2026 |
 
 ## 📂 By Topic
 
 | Topic | Count | % |
 |-------|-------|---|
-| — | — | — |
+| Array | 1 | 100.0% |
+| Dynamic Programming | 1 | 100.0% |
 
 ## 🕐 Recent Solutions
 
