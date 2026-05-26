@@ -43,6 +43,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
