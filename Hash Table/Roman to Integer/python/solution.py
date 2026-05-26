@@ -9,12 +9,15 @@ class Solution:
             'D':500,
             'M':1000
         }
+
         num = 0
-       
-        for i in range(len(s)-1):
-            if roman[s[i]] < roman[s[i+1]]:
-                num -= roman[s[i]]
+        i = 0
+        while i < len(s):
+            if i+1 < len(s) and roman[s[i]] < roman[s[i+1]]:
+                num += roman[s[i+1]] - roman[s[i]]
+                i+=1
             else:
                 num += roman[s[i]]
-        return num + roman[s[-1]]
+            i+=1
+        return num
             
