@@ -15,10 +15,10 @@ class Solution:
             4:"IV",
             1:"I"
         }
-        res = ""
+        res = []
         for n in roman:
             while num>=n:
                 num-=n
-                res+=roman[n]
-        return res
+                res.append(roman[n])
+        return "".join(res)
         
