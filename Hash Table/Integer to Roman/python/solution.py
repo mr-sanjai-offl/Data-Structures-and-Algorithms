@@ -17,9 +17,8 @@ class Solution:
         }
         res = ""
         for n in roman:
-            d = num//n
-            if d > 0:
-                res += roman[n] * d
-                num %= n
+            while num>=n:
+                num-=n
+                res+=roman[n]
         return res
         
