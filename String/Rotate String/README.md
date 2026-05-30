@@ -5,30 +5,42 @@
 
 ## Problem Statement
 
-<p>Given two strings <code>s</code> and <code>goal</code>, return <code>true</code> <em>if and only if</em> <code>s</code> <em>can become</em> <code>goal</code> <em>after some number of <strong>shifts</strong> on</em> <code>s</code>.</p>
+Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s.
 
-<p>A <strong>shift</strong> on <code>s</code> consists of moving the leftmost character of <code>s</code> to the rightmost position.</p>
+A shift on s consists of moving the leftmost character of s to the rightmost position.
 
-<ul>
-	<li>For example, if <code>s = &quot;abcde&quot;</code>, then it will be <code>&quot;bcdea&quot;</code> after one shift.</li>
-</ul>
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> s = "abcde", goal = "cdeab"
-<strong>Output:</strong> true
-</pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> s = "abcde", goal = "abced"
-<strong>Output:</strong> false
-</pre>
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+	For example, if s = "abcde", then it will be "bcdea" after one shift.
 
-<ul>
-	<li><code>1 &lt;= s.length, goal.length &lt;= 100</code></li>
-	<li><code>s</code> and <code>goal</code> consist of lowercase English letters.</li>
-</ul>
 
+ 
+Example 1:
+Input: s = "abcde", goal = "cdeab"
+Output: true
+Example 2:
+Input: s = "abcde", goal = "abced"
+Output: false
+
+ 
+Constraints:
+
+
+	1 <= s.length, goal.length <= 100
+	s and goal consist of lowercase English letters.
+
+## Examples
+
+```
+Input: s = "abcde", goal = "cdeab"
+Output: true
+
+Input: s = "abcde", goal = "abced"
+Output: false
+```
+
+## Constraints
+
+- For example, if s = "abcde", then it will be "bcdea" after one shift.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
