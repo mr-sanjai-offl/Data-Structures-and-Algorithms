@@ -49,8 +49,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Easy |
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
+
+</details>
+
+
+### String
+<details>
+<summary>Click to expand String problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 
 </details>
 
