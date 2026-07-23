@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825201417" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825204402" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -91,6 +91,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2778 | [Sum of Squares of Special Elements ](./Array/Sum%20of%20Squares%20of%20Special%20Elements%20/) | Easy |
 | 3046 | [Split the Array](./Array/Split%20the%20Array/) | Easy |
 | 3285 | [Find Indices of Stable Mountains](./Array/Find%20Indices%20of%20Stable%20Mountains/) | Easy |
+| 3627 | [Maximum Median Sum of Subsequences of Size 3](./Array/Maximum%20Median%20Sum%20of%20Subsequences%20of%20Size%203/) | Medium |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3895 | [Count Digit Appearances](./Array/Count%20Digit%20Appearances/) | Medium |
 

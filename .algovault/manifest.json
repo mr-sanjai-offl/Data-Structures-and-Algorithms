@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:46:41.416Z",
+  "lastUpdated": "2026-07-23T16:46:44.400Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3717,6 +3717,27 @@
               "runtime": "0 ms",
               "memory": "12.4 MB",
               "githubPath": "LeetCode/Array/Trionic Array I/"
+            }
+          }
+        },
+        "maximum-median-sum-of-subsequences-of-size-3": {
+          "questionId": "3627",
+          "title": "Maximum Median Sum of Subsequences of Size 3",
+          "titleSlug": "maximum-median-sum-of-subsequences-of-size-3",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Greedy",
+            "Sorting",
+            "Game Theory"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1784825204400,
+              "runtime": "107 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Array/Maximum Median Sum of Subsequences of Size 3/"
             }
           }
         }
