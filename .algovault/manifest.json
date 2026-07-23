@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:16.372Z",
+  "lastUpdated": "2026-07-23T16:45:21.756Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -39,6 +39,12 @@
               "syncedAt": 1784825035340,
               "runtime": "7 ms",
               "memory": "19.4 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            },
+            "java": {
+              "syncedAt": 1784825121756,
+              "runtime": "3 ms",
+              "memory": "46.9 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
             }
           }
@@ -1593,6 +1599,12 @@
               "runtime": "0 ms",
               "memory": "20.5 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            },
+            "java": {
+              "syncedAt": 1784825121756,
+              "runtime": "50 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
         },
@@ -1882,6 +1894,121 @@
               "runtime": "9 ms",
               "memory": "19.4 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "search-insert-position": {
+          "questionId": "35",
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825121756,
+              "runtime": "0 ms",
+              "memory": "20.1 MB",
+              "githubPath": "LeetCode/Array/Search Insert Position/"
+            }
+          }
+        },
+        "transpose-matrix": {
+          "questionId": "867",
+          "title": "Transpose Matrix",
+          "titleSlug": "transpose-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825121756,
+              "runtime": "2 ms",
+              "memory": "19.8 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
+            },
+            "java": {
+              "syncedAt": 1784825121756,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "toeplitz-matrix": {
+          "questionId": "766",
+          "title": "Toeplitz Matrix",
+          "titleSlug": "toeplitz-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825121756,
+              "runtime": "2 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Array/Toeplitz Matrix/"
+            }
+          }
+        },
+        "matrix-diagonal-sum": {
+          "questionId": "1572",
+          "title": "Matrix Diagonal Sum",
+          "titleSlug": "matrix-diagonal-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784825121756,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Matrix Diagonal Sum/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825121756,
+              "runtime": "0 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825121756,
+              "runtime": "2 ms",
+              "memory": "19.8 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
             }
           }
         }
