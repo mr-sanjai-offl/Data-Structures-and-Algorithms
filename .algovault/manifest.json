@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:46:17.863Z",
+  "lastUpdated": "2026-07-23T16:46:27.483Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2533,6 +2533,12 @@
               "runtime": "1 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
+            },
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "0 ms",
+              "memory": "18.1 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
             }
           }
         },
@@ -3311,6 +3317,157 @@
               "runtime": "0 ms",
               "memory": "17.9 MB",
               "githubPath": "LeetCode/Array/Find Indices of Stable Mountains/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "0 ms",
+              "memory": "17.8 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "sqrtx": {
+          "questionId": "69",
+          "title": "Sqrt(x)",
+          "titleSlug": "sqrtx",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "0 ms",
+              "memory": "17.8 MB",
+              "githubPath": "LeetCode/Math/Sqrt(x)/"
+            }
+          }
+        },
+        "duplicate-zeros": {
+          "questionId": "1089",
+          "title": "Duplicate Zeros",
+          "titleSlug": "duplicate-zeros",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "0 ms",
+              "memory": "18.1 MB",
+              "githubPath": "LeetCode/Array/Duplicate Zeros/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "535 ms",
+              "memory": "18.8 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "count-common-words-with-one-occurrence": {
+          "questionId": "2085",
+          "title": "Count Common Words With One Occurrence",
+          "titleSlug": "count-common-words-with-one-occurrence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "4 ms",
+              "memory": "18.3 MB",
+              "githubPath": "LeetCode/Array/Count Common Words With One Occurrence/"
+            }
+          }
+        },
+        "intersection-of-two-arrays-ii": {
+          "questionId": "350",
+          "title": "Intersection of Two Arrays II",
+          "titleSlug": "intersection-of-two-arrays-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "0 ms",
+              "memory": "18.2 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
+            }
+          }
+        },
+        "single-number-ii": {
+          "questionId": "137",
+          "title": "Single Number II",
+          "titleSlug": "single-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "0 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Array/Single Number II/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825187483,
+              "runtime": "24 ms",
+              "memory": "36.7 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
             }
           }
         }
