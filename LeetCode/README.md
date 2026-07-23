@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825127540" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825131303" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -37,6 +37,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
+| 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
@@ -152,10 +153,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
+| 504 | [Base 7](./Math/Base%207/) | Easy |
 
 </details>
 

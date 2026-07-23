@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:27.539Z",
+  "lastUpdated": "2026-07-23T16:45:31.302Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2165,6 +2165,61 @@
               "runtime": "0 ms",
               "memory": "19.4 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825131302,
+              "runtime": "53 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "base-7": {
+          "questionId": "504",
+          "title": "Base 7",
+          "titleSlug": "base-7",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825131302,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Math/Base 7/"
+            }
+          }
+        },
+        "count-primes": {
+          "questionId": "204",
+          "title": "Count Primes",
+          "titleSlug": "count-primes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Enumeration",
+            "Number Theory"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825131302,
+              "runtime": "1174 ms",
+              "memory": "58.2 MB",
+              "githubPath": "LeetCode/Array/Count Primes/"
             }
           }
         }
