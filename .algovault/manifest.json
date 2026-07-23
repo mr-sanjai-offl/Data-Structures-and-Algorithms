@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:42.015Z",
+  "lastUpdated": "2026-07-23T16:45:46.442Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -929,6 +929,12 @@
               "syncedAt": 1784825070097,
               "runtime": "3 ms",
               "memory": "23.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String/"
+            },
+            "java": {
+              "syncedAt": 1784825146441,
+              "runtime": "0 ms",
+              "memory": "49 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
             }
           }
@@ -2407,6 +2413,114 @@
               "runtime": "306 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Classes With at Least 5 Students/"
+            }
+          }
+        },
+        "number-of-segments-in-a-string": {
+          "questionId": "434",
+          "title": "Number of Segments in a String",
+          "titleSlug": "number-of-segments-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825146441,
+              "runtime": "0 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/String/Number of Segments in a String/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825146441,
+              "runtime": "0 ms",
+              "memory": "17.5 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "house-robber-ii": {
+          "questionId": "213",
+          "title": "House Robber II",
+          "titleSlug": "house-robber-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825146441,
+              "runtime": "3 ms",
+              "memory": "18 MB",
+              "githubPath": "LeetCode/Array/House Robber II/"
+            }
+          }
+        },
+        "house-robber": {
+          "questionId": "198",
+          "title": "House Robber",
+          "titleSlug": "house-robber",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825146441,
+              "runtime": "0 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Array/House Robber/"
+            }
+          }
+        },
+        "split-the-array": {
+          "questionId": "3046",
+          "title": "Split the Array",
+          "titleSlug": "split-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784825146442,
+              "runtime": "3 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Array/Split the Array/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784825146442,
+              "runtime": "1 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
             }
           }
         }

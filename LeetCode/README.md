@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825142015" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825146443" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -37,8 +37,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
+| 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
+| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
@@ -60,6 +63,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
+| 3046 | [Split the Array](./Array/Split%20the%20Array/) | Easy |
 | 3895 | [Count Digit Appearances](./Array/Count%20Digit%20Appearances/) | Medium |
 
 </details>
@@ -169,6 +173,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 504 | [Base 7](./Math/Base%207/) | Easy |
 
 </details>
@@ -198,6 +203,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
