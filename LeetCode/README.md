@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825192466" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825197553" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -34,6 +34,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 135 | [Candy](./Array/Candy/) | Hard |
+| 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
@@ -233,6 +234,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
+| 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
+| 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 371 | [Sum of Two Integers](./Math/Sum%20of%20Two%20Integers/) | Medium |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
@@ -240,6 +243,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 504 | [Base 7](./Math/Base%207/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
+| 837 | [New 21 Game](./Math/New%2021%20Game/) | Medium |
+| 1323 | [Maximum 69 Number](./Math/Maximum%2069%20Number/) | Easy |
 | 1360 | [Number of Days Between Two Dates](./Math/Number%20of%20Days%20Between%20Two%20Dates/) | Easy |
 
 </details>
@@ -275,6 +280,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
+| 2264 | [Largest 3-Same-Digit Number in String](./String/Largest%203-Same-Digit%20Number%20in%20String/) | Easy |
 | 3110 | [Score of a String](./String/Score%20of%20a%20String/) | Easy |
 
 </details>

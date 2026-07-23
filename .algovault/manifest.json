@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:46:32.466Z",
+  "lastUpdated": "2026-07-23T16:46:37.552Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3566,6 +3566,116 @@
               "runtime": "12 ms",
               "memory": "19.3 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825197552,
+              "runtime": "0 ms",
+              "memory": "19.5 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "new-21-game": {
+          "questionId": "837",
+          "title": "New 21 Game",
+          "titleSlug": "new-21-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Sliding Window",
+            "Probability and Statistics"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825197552,
+              "runtime": "25 ms",
+              "memory": "18.3 MB",
+              "githubPath": "LeetCode/Math/New 21 Game/"
+            }
+          }
+        },
+        "maximum-69-number": {
+          "questionId": "1323",
+          "title": "Maximum 69 Number",
+          "titleSlug": "maximum-69-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Greedy"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825197552,
+              "runtime": "0 ms",
+              "memory": "17.6 MB",
+              "githubPath": "LeetCode/Math/Maximum 69 Number/"
+            }
+          }
+        },
+        "power-of-four": {
+          "questionId": "342",
+          "title": "Power of Four",
+          "titleSlug": "power-of-four",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825197552,
+              "runtime": "4 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Math/Power of Four/"
+            }
+          }
+        },
+        "largest-3-same-digit-number-in-string": {
+          "questionId": "2264",
+          "title": "Largest 3-Same-Digit Number in String",
+          "titleSlug": "largest-3-same-digit-number-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825197552,
+              "runtime": "2 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/String/Largest 3-Same-Digit Number in String/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825197552,
+              "runtime": "8 ms",
+              "memory": "17.8 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
             }
           }
         }
