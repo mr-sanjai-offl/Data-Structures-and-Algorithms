@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825197553" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825201417" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -91,6 +91,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2778 | [Sum of Squares of Special Elements ](./Array/Sum%20of%20Squares%20of%20Special%20Elements%20/) | Easy |
 | 3046 | [Split the Array](./Array/Split%20the%20Array/) | Easy |
 | 3285 | [Find Indices of Stable Mountains](./Array/Find%20Indices%20of%20Stable%20Mountains/) | Easy |
+| 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3895 | [Count Digit Appearances](./Array/Count%20Digit%20Appearances/) | Medium |
 
 </details>
@@ -208,6 +209,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 | 19 | [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List/) | Medium |
+| 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 109 | [Convert Sorted List to Binary Search Tree](./Linked%20List/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/) | Medium |
 | 206 | [Reverse Linked List](./Linked%20List/Reverse%20Linked%20List/) | Easy |

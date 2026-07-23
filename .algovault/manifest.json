@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:46:37.552Z",
+  "lastUpdated": "2026-07-23T16:46:41.416Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2069,6 +2069,12 @@
               "runtime": "150 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
+            },
+            "python3": {
+              "syncedAt": 1784825201416,
+              "runtime": "1 ms",
+              "memory": "18.1 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
             }
           }
         },
@@ -3676,6 +3682,41 @@
               "runtime": "8 ms",
               "memory": "17.8 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825201416,
+              "runtime": "0 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+            }
+          }
+        },
+        "trionic-array-i": {
+          "questionId": "3637",
+          "title": "Trionic Array I",
+          "titleSlug": "trionic-array-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1784825201416,
+              "runtime": "0 ms",
+              "memory": "12.4 MB",
+              "githubPath": "LeetCode/Array/Trionic Array I/"
             }
           }
         }
