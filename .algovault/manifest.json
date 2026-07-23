@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:06.847Z",
+  "lastUpdated": "2026-07-23T16:45:16.372Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1719,6 +1719,169 @@
               "runtime": "0 ms",
               "memory": "19.3 MB",
               "githubPath": "LeetCode/String/Score of a String/"
+            }
+          }
+        },
+        "find-all-lonely-numbers-in-the-array": {
+          "questionId": "2150",
+          "title": "Find All Lonely Numbers in the Array",
+          "titleSlug": "find-all-lonely-numbers-in-the-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825116371,
+              "runtime": "153 ms",
+              "memory": "39.3 MB",
+              "githubPath": "LeetCode/Array/Find All Lonely Numbers in the Array/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock": {
+          "questionId": "121",
+          "title": "Best Time to Buy and Sell Stock",
+          "titleSlug": "best-time-to-buy-and-sell-stock",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825116371,
+              "runtime": "53 ms",
+              "memory": "28.6 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "spiral-matrix": {
+          "questionId": "54",
+          "title": "Spiral Matrix",
+          "titleSlug": "spiral-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784825116371,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "managers-with-at-least-5-direct-reports": {
+          "questionId": "570",
+          "title": "Managers with at Least 5 Direct Reports",
+          "titleSlug": "managers-with-at-least-5-direct-reports",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825116371,
+              "runtime": "344 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
+            }
+          }
+        },
+        "rotate-array": {
+          "questionId": "189",
+          "title": "Rotate Array",
+          "titleSlug": "rotate-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825116372,
+              "runtime": "5 ms",
+              "memory": "26.7 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
+            }
+          }
+        },
+        "powx-n": {
+          "questionId": "50",
+          "title": "Pow(x, n)",
+          "titleSlug": "powx-n",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825116372,
+              "runtime": "4 ms",
+              "memory": "19.6 MB",
+              "githubPath": "LeetCode/Math/Pow(x, n)/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825116372,
+              "runtime": "0 ms",
+              "memory": "19.5 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "pascals-triangle-ii": {
+          "questionId": "119",
+          "title": "Pascal's Triangle II",
+          "titleSlug": "pascals-triangle-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825116372,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle II/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825116372,
+              "runtime": "9 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
             }
           }
         }
