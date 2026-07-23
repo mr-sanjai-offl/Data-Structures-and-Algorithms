@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:44:58.974Z",
+  "lastUpdated": "2026-07-23T16:45:06.847Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1628,6 +1628,97 @@
               "runtime": "0 ms",
               "memory": "19.4 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            }
+          }
+        },
+        "number-of-even-and-odd-bits": {
+          "questionId": "2595",
+          "title": "Number of Even and Odd Bits",
+          "titleSlug": "number-of-even-and-odd-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825106847,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number of Even and Odd Bits/"
+            }
+          }
+        },
+        "add-binary": {
+          "questionId": "67",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825106847,
+              "runtime": "0 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "two-sum-ii-input-array-is-sorted": {
+          "questionId": "167",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "titleSlug": "two-sum-ii-input-array-is-sorted",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825106847,
+              "runtime": "7 ms",
+              "memory": "20.5 MB",
+              "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825106847,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "score-of-a-string": {
+          "questionId": "3110",
+          "title": "Score of a String",
+          "titleSlug": "score-of-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825106847,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/String/Score of a String/"
             }
           }
         }
