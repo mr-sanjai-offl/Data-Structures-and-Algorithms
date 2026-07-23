@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T17:09:12.570Z",
+  "lastUpdated": "2026-07-23T17:09:20.088Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3950,10 +3950,28 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1784826552570,
+              "syncedAt": 1784826503204,
               "runtime": "124 ms",
               "memory": "0 KB",
               "githubPath": "Codeforces/greedy/Domino piling/"
+            }
+          }
+        },
+        "158-A": {
+          "questionId": "158A",
+          "title": "Next Round",
+          "titleSlug": "158-A",
+          "difficulty": "800",
+          "tags": [
+            "*special",
+            "implementation"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1784826560088,
+              "runtime": "156 ms",
+              "memory": "0 KB",
+              "githubPath": "Codeforces/*special/Next Round/"
             }
           }
         }
