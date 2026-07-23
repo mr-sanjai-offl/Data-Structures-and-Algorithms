@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:44:38.246Z",
+  "lastUpdated": "2026-07-23T16:44:43.871Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1246,6 +1246,83 @@
               "runtime": "9 ms",
               "memory": "30.5 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "equal-row-and-column-pairs": {
+          "questionId": "2352",
+          "title": "Equal Row and Column Pairs",
+          "titleSlug": "equal-row-and-column-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825083871,
+              "runtime": "181 ms",
+              "memory": "24.7 MB",
+              "githubPath": "LeetCode/Array/Equal Row and Column Pairs/"
+            }
+          }
+        },
+        "maximum-number-of-vowels-in-a-substring-of-given-length": {
+          "questionId": "1456",
+          "title": "Maximum Number of Vowels in a Substring of Given Length",
+          "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825083871,
+              "runtime": "83 ms",
+              "memory": "19.8 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
+            }
+          }
+        },
+        "count-and-say": {
+          "questionId": "38",
+          "title": "Count and Say",
+          "titleSlug": "count-and-say",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825083871,
+              "runtime": "7 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/String/Count and Say/"
+            }
+          }
+        },
+        "find-k-closest-elements": {
+          "questionId": "658",
+          "title": "Find K Closest Elements",
+          "titleSlug": "find-k-closest-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825083871,
+              "runtime": "15 ms",
+              "memory": "20.9 MB",
+              "githubPath": "LeetCode/Array/Find K Closest Elements/"
             }
           }
         }
