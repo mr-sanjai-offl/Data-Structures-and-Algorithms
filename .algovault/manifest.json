@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:53.916Z",
+  "lastUpdated": "2026-07-23T16:46:07.528Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2756,6 +2756,264 @@
               "runtime": "1 ms",
               "memory": "17.9 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String II/"
+            }
+          }
+        },
+        "uncommon-words-from-two-sentences": {
+          "questionId": "884",
+          "title": "Uncommon Words from Two Sentences",
+          "titleSlug": "uncommon-words-from-two-sentences",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167527,
+              "runtime": "0 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Hash Table/Uncommon Words from Two Sentences/"
+            }
+          }
+        },
+        "sorting-the-sentence": {
+          "questionId": "1859",
+          "title": "Sorting the Sentence",
+          "titleSlug": "sorting-the-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167527,
+              "runtime": "41 ms",
+              "memory": "18 MB",
+              "githubPath": "LeetCode/String/Sorting the Sentence/"
+            }
+          }
+        },
+        "counting-bits": {
+          "questionId": "338",
+          "title": "Counting Bits",
+          "titleSlug": "counting-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Dynamic Programming",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167527,
+              "runtime": "53 ms",
+              "memory": "18.6 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
+            }
+          }
+        },
+        "truncate-sentence": {
+          "questionId": "1816",
+          "title": "Truncate Sentence",
+          "titleSlug": "truncate-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "0 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Array/Truncate Sentence/"
+            }
+          }
+        },
+        "shuffle-string": {
+          "questionId": "1528",
+          "title": "Shuffle String",
+          "titleSlug": "shuffle-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "0 ms",
+              "memory": "17.8 MB",
+              "githubPath": "LeetCode/Array/Shuffle String/"
+            }
+          }
+        },
+        "unique-number-of-occurrences": {
+          "questionId": "1207",
+          "title": "Unique Number of Occurrences",
+          "titleSlug": "unique-number-of-occurrences",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "0 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Array/Unique Number of Occurrences/"
+            }
+          }
+        },
+        "height-checker": {
+          "questionId": "1051",
+          "title": "Height Checker",
+          "titleSlug": "height-checker",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "0 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Array/Height Checker/"
+            }
+          }
+        },
+        "squares-of-a-sorted-array": {
+          "questionId": "977",
+          "title": "Squares of a Sorted Array",
+          "titleSlug": "squares-of-a-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "8 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Array/Squares of a Sorted Array/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "0 ms",
+              "memory": "18.7 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
+            }
+          }
+        },
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "223 ms",
+              "memory": "19 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            }
+          }
+        },
+        "third-maximum-number": {
+          "questionId": "414",
+          "title": "Third Maximum Number",
+          "titleSlug": "third-maximum-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "343 ms",
+              "memory": "18.6 MB",
+              "githubPath": "LeetCode/Array/Third Maximum Number/"
+            }
+          }
+        },
+        "number-of-days-between-two-dates": {
+          "questionId": "1360",
+          "title": "Number of Days Between Two Dates",
+          "titleSlug": "number-of-days-between-two-dates",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "0 ms",
+              "memory": "18.1 MB",
+              "githubPath": "LeetCode/Math/Number of Days Between Two Dates/"
+            }
+          }
+        },
+        "range-addition-ii": {
+          "questionId": "598",
+          "title": "Range Addition II",
+          "titleSlug": "range-addition-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "0 ms",
+              "memory": "19.1 MB",
+              "githubPath": "LeetCode/Array/Range Addition II/"
+            }
+          }
+        },
+        "fibonacci-number": {
+          "questionId": "509",
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825167528,
+              "runtime": "27 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Math/Fibonacci Number/"
             }
           }
         }
