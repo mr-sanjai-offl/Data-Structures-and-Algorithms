@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825057241" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825063397" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,15 +16,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 46 | [Permutations](./Array/Permutations/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
+| 78 | [Subsets](./Array/Subsets/) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
+| 912 | [Sort an Array](./Array/Sort%20an%20Array/) | Medium |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 1749 | [Maximum Absolute Sum of Any Subarray](./Array/Maximum%20Absolute%20Sum%20of%20Any%20Subarray/) | Medium |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
@@ -63,6 +66,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 
@@ -91,6 +95,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
+| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
+| 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
+
+</details>
+
+
 ### Tree
 <details>
 <summary>Click to expand Tree problems</summary>
@@ -100,6 +117,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 98 | [Validate Binary Search Tree](./Tree/Validate%20Binary%20Search%20Tree/) | Medium |
 | 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 103 | [Binary Tree Zigzag Level Order Traversal](./Tree/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/) | Medium |
+| 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 226 | [Invert Binary Tree](./Tree/Invert%20Binary%20Tree/) | Easy |
 | 230 | [Kth Smallest Element in a BST](./Tree/Kth%20Smallest%20Element%20in%20a%20BST/) | Medium |
 | 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
