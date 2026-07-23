@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T17:26:19.411Z",
+  "lastUpdated": "2026-07-23T17:26:19.434Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3968,7 +3968,7 @@
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1784827579411,
+              "syncedAt": 1784827071445,
               "runtime": "156 ms",
               "memory": "0 KB",
               "githubPath": "Codeforces/*special/Next Round/"
@@ -3989,6 +3989,24 @@
               "runtime": "62 ms",
               "memory": "0 KB",
               "githubPath": "Codeforces/implementation/Bit++/"
+            }
+          }
+        },
+        "231-A": {
+          "questionId": "231A",
+          "title": "Team",
+          "titleSlug": "231-A",
+          "difficulty": "800",
+          "tags": [
+            "brute force",
+            "greedy"
+          ],
+          "solutions": {
+            "python": {
+              "syncedAt": 1784827579434,
+              "runtime": "124 ms",
+              "memory": "1400 KB",
+              "githubPath": "Codeforces/brute force/Team/"
             }
           }
         }
