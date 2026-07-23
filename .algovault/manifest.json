@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:34.829Z",
+  "lastUpdated": "2026-07-23T16:45:38.011Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2271,6 +2271,40 @@
               "runtime": "226 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Swap Sex of Employees/"
+            }
+          }
+        },
+        "project-employees-i": {
+          "questionId": "1075",
+          "title": "Project Employees I",
+          "titleSlug": "project-employees-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825138011,
+              "runtime": "545 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Project Employees I/"
+            }
+          }
+        },
+        "actors-and-directors-who-cooperated-at-least-three-times": {
+          "questionId": "1050",
+          "title": "Actors and Directors Who Cooperated At Least Three Times",
+          "titleSlug": "actors-and-directors-who-cooperated-at-least-three-times",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825138011,
+              "runtime": "374 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Actors and Directors Who Cooperated At Least Three Times/"
             }
           }
         }

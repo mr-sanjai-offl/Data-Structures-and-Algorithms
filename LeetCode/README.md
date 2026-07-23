@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825134830" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825138012" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -98,7 +98,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 | 627 | [Swap Sex of Employees](./Database/Swap%20Sex%20of%20Employees/) | Easy |
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](./Database/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/) | Easy |
 | 1068 | [Product Sales Analysis I](./Database/Product%20Sales%20Analysis%20I/) | Easy |
+| 1075 | [Project Employees I](./Database/Project%20Employees%20I/) | Easy |
 | 1084 | [Sales Analysis III](./Database/Sales%20Analysis%20III/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
