@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:44:04.598Z",
+  "lastUpdated": "2026-07-23T16:44:11.406Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -373,6 +373,153 @@
               "runtime": "0 ms",
               "memory": "19.3 MB",
               "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825051405,
+              "runtime": "23 ms",
+              "memory": "25.2 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "number-of-strings-that-appear-as-substrings-in-word": {
+          "questionId": "1967",
+          "title": "Number of Strings That Appear as Substrings in Word",
+          "titleSlug": "number-of-strings-that-appear-as-substrings-in-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825051406,
+              "runtime": "0 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
+            }
+          }
+        },
+        "employees-whose-manager-left-the-company": {
+          "questionId": "1978",
+          "title": "Employees Whose Manager Left the Company",
+          "titleSlug": "employees-whose-manager-left-the-company",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825051406,
+              "runtime": "340 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Whose Manager Left the Company/"
+            }
+          }
+        },
+        "triangle-judgement": {
+          "questionId": "610",
+          "title": "Triangle Judgement",
+          "titleSlug": "triangle-judgement",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825051406,
+              "runtime": "303 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Triangle Judgement/"
+            }
+          }
+        },
+        "calculate-special-bonus": {
+          "questionId": "1873",
+          "title": "Calculate Special Bonus",
+          "titleSlug": "calculate-special-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825051406,
+              "runtime": "620 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Calculate Special Bonus/"
+            }
+          }
+        },
+        "number-of-squareful-arrays": {
+          "questionId": "996",
+          "title": "Number of Squareful Arrays",
+          "titleSlug": "number-of-squareful-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825051406,
+              "runtime": "2 ms",
+              "memory": "19.5 MB",
+              "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
+            }
+          }
+        },
+        "degree-of-an-array": {
+          "questionId": "697",
+          "title": "Degree of an Array",
+          "titleSlug": "degree-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825051406,
+              "runtime": "3 ms",
+              "memory": "20.7 MB",
+              "githubPath": "LeetCode/Array/Degree of an Array/"
+            }
+          }
+        },
+        "binary-tree-zigzag-level-order-traversal": {
+          "questionId": "103",
+          "title": "Binary Tree Zigzag Level Order Traversal",
+          "titleSlug": "binary-tree-zigzag-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825051406,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Zigzag Level Order Traversal/"
             }
           }
         }
