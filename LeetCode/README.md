@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825187484" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825192466" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -37,16 +37,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
 | 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 204 | [Count Primes](./Array/Count%20Primes/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
+| 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
@@ -226,7 +229,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
+| 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
+| 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 371 | [Sum of Two Integers](./Math/Sum%20of%20Two%20Integers/) | Medium |

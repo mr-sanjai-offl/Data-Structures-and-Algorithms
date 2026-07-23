@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:46:27.483Z",
+  "lastUpdated": "2026-07-23T16:46:32.466Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3468,6 +3468,104 @@
               "runtime": "24 ms",
               "memory": "36.7 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "add-digits": {
+          "questionId": "258",
+          "title": "Add Digits",
+          "titleSlug": "add-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825192466,
+              "runtime": "0 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Math/Add Digits/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825192466,
+              "runtime": "0 ms",
+              "memory": "17.8 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825192466,
+              "runtime": "16 ms",
+              "memory": "31.6 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "intersection-of-two-arrays": {
+          "questionId": "349",
+          "title": "Intersection of Two Arrays",
+          "titleSlug": "intersection-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825192466,
+              "runtime": "0 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825192466,
+              "runtime": "12 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
             }
           }
         }
