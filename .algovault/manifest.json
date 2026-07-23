@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:46.442Z",
+  "lastUpdated": "2026-07-23T16:45:53.916Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2045,6 +2045,12 @@
               "runtime": "5 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            },
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "2 ms",
+              "memory": "17.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
             }
           }
         },
@@ -2502,6 +2508,12 @@
               "runtime": "3 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Array/Split the Array/"
+            },
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "3 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Array/Split the Array/"
             }
           }
         },
@@ -2521,6 +2533,229 @@
               "runtime": "1 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "shortest-distance-to-a-character": {
+          "questionId": "821",
+          "title": "Shortest Distance to a Character",
+          "titleSlug": "shortest-distance-to-a-character",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "293 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Array/Shortest Distance to a Character/"
+            }
+          }
+        },
+        "reverse-words-in-a-string-iii": {
+          "questionId": "557",
+          "title": "Reverse Words in a String III",
+          "titleSlug": "reverse-words-in-a-string-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "0 ms",
+              "memory": "18.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
+            }
+          }
+        },
+        "reverse-prefix-of-word": {
+          "questionId": "2000",
+          "title": "Reverse Prefix of Word",
+          "titleSlug": "reverse-prefix-of-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "0 ms",
+              "memory": "17.6 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
+            }
+          }
+        },
+        "perfect-number": {
+          "questionId": "507",
+          "title": "Perfect Number",
+          "titleSlug": "perfect-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "3 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Math/Perfect Number/"
+            }
+          }
+        },
+        "keyboard-row": {
+          "questionId": "500",
+          "title": "Keyboard Row",
+          "titleSlug": "keyboard-row",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "4 ms",
+              "memory": "17.6 MB",
+              "githubPath": "LeetCode/Array/Keyboard Row/"
+            }
+          }
+        },
+        "find-common-characters": {
+          "questionId": "1002",
+          "title": "Find Common Characters",
+          "titleSlug": "find-common-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "11 ms",
+              "memory": "18 MB",
+              "githubPath": "LeetCode/Array/Find Common Characters/"
+            }
+          }
+        },
+        "find-numbers-with-even-number-of-digits": {
+          "questionId": "1295",
+          "title": "Find Numbers with Even Number of Digits",
+          "titleSlug": "find-numbers-with-even-number-of-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "4 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Array/Find Numbers with Even Number of Digits/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "0 ms",
+              "memory": "17.8 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "most-common-word": {
+          "questionId": "819",
+          "title": "Most Common Word",
+          "titleSlug": "most-common-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "0 ms",
+              "memory": "18 MB",
+              "githubPath": "LeetCode/Array/Most Common Word/"
+            }
+          }
+        },
+        "reverse-only-letters": {
+          "questionId": "917",
+          "title": "Reverse Only Letters",
+          "titleSlug": "reverse-only-letters",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "0 ms",
+              "memory": "17.7 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Only Letters/"
+            }
+          }
+        },
+        "valid-palindrome-ii": {
+          "questionId": "680",
+          "title": "Valid Palindrome II",
+          "titleSlug": "valid-palindrome-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "63 ms",
+              "memory": "17.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome II/"
+            }
+          }
+        },
+        "reverse-string-ii": {
+          "questionId": "541",
+          "title": "Reverse String II",
+          "titleSlug": "reverse-string-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825153916,
+              "runtime": "1 ms",
+              "memory": "17.9 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String II/"
             }
           }
         }
