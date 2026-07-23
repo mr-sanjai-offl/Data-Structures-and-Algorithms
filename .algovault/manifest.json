@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:31.302Z",
+  "lastUpdated": "2026-07-23T16:45:34.829Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2220,6 +2220,57 @@
               "runtime": "1174 ms",
               "memory": "58.2 MB",
               "githubPath": "LeetCode/Array/Count Primes/"
+            }
+          }
+        },
+        "rank-scores": {
+          "questionId": "178",
+          "title": "Rank Scores",
+          "titleSlug": "rank-scores",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825134829,
+              "runtime": "319 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rank Scores/"
+            }
+          }
+        },
+        "sales-analysis-iii": {
+          "questionId": "1084",
+          "title": "Sales Analysis III",
+          "titleSlug": "sales-analysis-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825134829,
+              "runtime": "1034 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Sales Analysis III/"
+            }
+          }
+        },
+        "swap-sex-of-employees": {
+          "questionId": "627",
+          "title": "Swap Sex of Employees",
+          "titleSlug": "swap-sex-of-employees",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825134829,
+              "runtime": "226 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Swap Sex of Employees/"
             }
           }
         }
