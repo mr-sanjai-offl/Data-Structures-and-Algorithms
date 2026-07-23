@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825167529" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825177864" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -43,6 +43,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
@@ -77,7 +78,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
+| 2778 | [Sum of Squares of Special Elements ](./Array/Sum%20of%20Squares%20of%20Special%20Elements%20/) | Easy |
 | 3046 | [Split the Array](./Array/Split%20the%20Array/) | Easy |
+| 3285 | [Find Indices of Stable Mountains](./Array/Find%20Indices%20of%20Stable%20Mountains/) | Easy |
 | 3895 | [Count Digit Appearances](./Array/Count%20Digit%20Appearances/) | Medium |
 
 </details>
@@ -140,6 +143,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Divide and Conquer
+<details>
+<summary>Click to expand Divide and Conquer problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 191 | [Number of 1 Bits](./Divide%20and%20Conquer/Number%20of%201%20Bits/) | Easy |
+
+</details>
+
+
 ### Dynamic Programming
 <details>
 <summary>Click to expand Dynamic Programming problems</summary>
@@ -165,7 +179,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
+| 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
+| 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
+| 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 | 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 884 | [Uncommon Words from Two Sentences](./Hash%20Table/Uncommon%20Words%20from%20Two%20Sentences/) | Easy |
 
@@ -200,7 +217,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
+| 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
+| 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
+| 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
+| 371 | [Sum of Two Integers](./Math/Sum%20of%20Two%20Integers/) | Medium |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
 | 504 | [Base 7](./Math/Base%207/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
 | 509 | [Fibonacci Number](./Math/Fibonacci%20Number/) | Easy |
@@ -234,6 +257,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
+| 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
@@ -271,6 +295,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
+| 345 | [Reverse Vowels of a String](./Two%20Pointers/Reverse%20Vowels%20of%20a%20String/) | Easy |
+| 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 443 | [String Compression](./Two%20Pointers/String%20Compression/) | Medium |
 | 541 | [Reverse String II](./Two%20Pointers/Reverse%20String%20II/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
