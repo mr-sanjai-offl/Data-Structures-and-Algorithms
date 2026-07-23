@@ -1,10 +1,10 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
 
-class Solution:
+class Solution(object):
     def deleteNode(self, node):
         """
         :type node: ListNode
@@ -12,3 +12,4 @@ class Solution:
         """
         node.val = node.next.val
         node.next = node.next.next
+        
