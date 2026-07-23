@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=mr-sanjai-offl&theme=dark&v=1784827485304" width="100%" />
+  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=mr-sanjai-offl&theme=dark&v=1784827492651" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -40,6 +40,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 50A | [Domino piling](./greedy/Domino%20piling/) | 800 |
+
+</details>
+
+
+### implementation
+<details>
+<summary>Click to expand implementation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 282A | [Bit++](./implementation/Bit++/) | 800 |
 
 </details>
 
