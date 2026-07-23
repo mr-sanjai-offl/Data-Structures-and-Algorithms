@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:44:55.672Z",
+  "lastUpdated": "2026-07-23T16:44:58.974Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1593,6 +1593,41 @@
               "runtime": "0 ms",
               "memory": "20.5 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825098974,
+              "runtime": "4884 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "pascals-triangle": {
+          "questionId": "118",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825098974,
+              "runtime": "0 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
             }
           }
         }
