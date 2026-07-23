@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825204402" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825209723" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -61,6 +61,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 525 | [Contiguous Array](./Array/Contiguous%20Array/) | Medium |
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 658 | [Find K Closest Elements](./Array/Find%20K%20Closest%20Elements/) | Medium |
+| 661 | [Image Smoother](./Array/Image%20Smoother/) | Easy |
 | 697 | [Degree of an Array](./Array/Degree%20of%20an%20Array/) | Easy |
 | 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
@@ -80,14 +81,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1295 | [Find Numbers with Even Number of Digits](./Array/Find%20Numbers%20with%20Even%20Number%20of%20Digits/) | Easy |
 | 1528 | [Shuffle String](./Array/Shuffle%20String/) | Easy |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
+| 1637 | [Widest Vertical Area Between Two Points Containing No Points](./Array/Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points/) | Easy |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1749 | [Maximum Absolute Sum of Any Subarray](./Array/Maximum%20Absolute%20Sum%20of%20Any%20Subarray/) | Medium |
 | 1816 | [Truncate Sentence](./Array/Truncate%20Sentence/) | Easy |
+| 1913 | [Maximum Product Difference Between Two Pairs](./Array/Maximum%20Product%20Difference%20Between%20Two%20Pairs/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2085 | [Count Common Words With One Occurrence](./Array/Count%20Common%20Words%20With%20One%20Occurrence/) | Easy |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
+| 2706 | [Buy Two Chocolates](./Array/Buy%20Two%20Chocolates/) | Easy |
 | 2778 | [Sum of Squares of Special Elements ](./Array/Sum%20of%20Squares%20of%20Special%20Elements%20/) | Easy |
 | 3046 | [Split the Array](./Array/Split%20the%20Array/) | Easy |
 | 3285 | [Find Indices of Stable Mountains](./Array/Find%20Indices%20of%20Stable%20Mountains/) | Easy |
@@ -281,6 +285,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
+| 1422 | [Maximum Score After Splitting a String](./String/Maximum%20Score%20After%20Splitting%20a%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |
 | 2264 | [Largest 3-Same-Digit Number in String](./String/Largest%203-Same-Digit%20Number%20in%20String/) | Easy |
@@ -323,6 +328,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 541 | [Reverse String II](./Two%20Pointers/Reverse%20String%20II/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 680 | [Valid Palindrome II](./Two%20Pointers/Valid%20Palindrome%20II/) | Easy |
+| 838 | [Push Dominoes](./Two%20Pointers/Push%20Dominoes/) | Medium |
 | 917 | [Reverse Only Letters](./Two%20Pointers/Reverse%20Only%20Letters/) | Easy |
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
 

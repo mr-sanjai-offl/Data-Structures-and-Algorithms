@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:46:44.400Z",
+  "lastUpdated": "2026-07-23T16:46:49.722Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1435,6 +1435,12 @@
               "runtime": "6 ms",
               "memory": "19.2 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            },
+            "java": {
+              "syncedAt": 1784825209722,
+              "runtime": "5 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
             }
           }
         },
@@ -1453,6 +1459,12 @@
               "syncedAt": 1784825089235,
               "runtime": "0 ms",
               "memory": "19.3 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            },
+            "java": {
+              "syncedAt": 1784825209722,
+              "runtime": "5 ms",
+              "memory": "45.1 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
             }
           }
@@ -3738,6 +3750,116 @@
               "runtime": "107 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Array/Maximum Median Sum of Subsequences of Size 3/"
+            }
+          }
+        },
+        "push-dominoes": {
+          "questionId": "838",
+          "title": "Push Dominoes",
+          "titleSlug": "push-dominoes",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825209722,
+              "runtime": "114 ms",
+              "memory": "19.9 MB",
+              "githubPath": "LeetCode/Two Pointers/Push Dominoes/"
+            }
+          }
+        },
+        "maximum-score-after-splitting-a-string": {
+          "questionId": "1422",
+          "title": "Maximum Score After Splitting a String",
+          "titleSlug": "maximum-score-after-splitting-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825209722,
+              "runtime": "80 ms",
+              "memory": "17.5 MB",
+              "githubPath": "LeetCode/String/Maximum Score After Splitting a String/"
+            }
+          }
+        },
+        "buy-two-chocolates": {
+          "questionId": "2706",
+          "title": "Buy Two Chocolates",
+          "titleSlug": "buy-two-chocolates",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825209722,
+              "runtime": "61 ms",
+              "memory": "17.5 MB",
+              "githubPath": "LeetCode/Array/Buy Two Chocolates/"
+            }
+          }
+        },
+        "maximum-product-difference-between-two-pairs": {
+          "questionId": "1913",
+          "title": "Maximum Product Difference Between Two Pairs",
+          "titleSlug": "maximum-product-difference-between-two-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825209722,
+              "runtime": "133 ms",
+              "memory": "18.7 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Difference Between Two Pairs/"
+            }
+          }
+        },
+        "widest-vertical-area-between-two-points-containing-no-points": {
+          "questionId": "1637",
+          "title": "Widest Vertical Area Between Two Points Containing No Points",
+          "titleSlug": "widest-vertical-area-between-two-points-containing-no-points",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825209722,
+              "runtime": "689 ms",
+              "memory": "60.2 MB",
+              "githubPath": "LeetCode/Array/Widest Vertical Area Between Two Points Containing No Points/"
+            }
+          }
+        },
+        "image-smoother": {
+          "questionId": "661",
+          "title": "Image Smoother",
+          "titleSlug": "image-smoother",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825209722,
+              "runtime": "490 ms",
+              "memory": "17 MB",
+              "githubPath": "LeetCode/Array/Image Smoother/"
             }
           }
         }
