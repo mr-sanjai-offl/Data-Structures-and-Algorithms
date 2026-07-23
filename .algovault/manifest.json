@@ -1,0 +1,188 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-07-23T16:43:55.340Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825035340,
+              "runtime": "15 ms",
+              "memory": "22.1 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825035340,
+              "runtime": "7 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825035340,
+              "runtime": "523 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "students-and-examinations": {
+          "questionId": "1280",
+          "title": "Students and Examinations",
+          "titleSlug": "students-and-examinations",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825035340,
+              "runtime": "1093 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Students and Examinations/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825035340,
+              "runtime": "1476 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "customers-who-never-order": {
+          "questionId": "183",
+          "title": "Customers Who Never Order",
+          "titleSlug": "customers-who-never-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825035340,
+              "runtime": "630 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customers Who Never Order/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825035340,
+              "runtime": "569 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825035340,
+              "runtime": "23 ms",
+              "memory": "21.8 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "maximum-absolute-sum-of-any-subarray": {
+          "questionId": "1749",
+          "title": "Maximum Absolute Sum of Any Subarray",
+          "titleSlug": "maximum-absolute-sum-of-any-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825035340,
+              "runtime": "47 ms",
+              "memory": "30.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Absolute Sum of Any Subarray/"
+            }
+          }
+        },
+        "maximum-product-subarray": {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825035340,
+              "runtime": "3 ms",
+              "memory": "19.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Subarray/"
+            }
+          }
+        }
+      },
+      "username": "mr_sanjai_offl"
+    }
+  }
+}
