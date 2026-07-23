@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:44:49.235Z",
+  "lastUpdated": "2026-07-23T16:44:55.672Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1436,6 +1436,163 @@
               "runtime": "0 ms",
               "memory": "19.3 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825095672,
+              "runtime": "0 ms",
+              "memory": "20.5 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "customer-who-visited-but-did-not-make-any-transactions": {
+          "questionId": "1581",
+          "title": "Customer Who Visited but Did Not Make Any Transactions",
+          "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825095672,
+              "runtime": "1479 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Who Visited but Did Not Make Any Transactions/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825095672,
+              "runtime": "0 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "product-sales-analysis-i": {
+          "questionId": "1068",
+          "title": "Product Sales Analysis I",
+          "titleSlug": "product-sales-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825095672,
+              "runtime": "1562 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Product Sales Analysis I/"
+            }
+          }
+        },
+        "replace-employee-id-with-the-unique-identifier": {
+          "questionId": "1378",
+          "title": "Replace Employee ID With The Unique Identifier",
+          "titleSlug": "replace-employee-id-with-the-unique-identifier",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825095672,
+              "runtime": "1399 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
+            }
+          }
+        },
+        "invalid-tweets": {
+          "questionId": "1683",
+          "title": "Invalid Tweets",
+          "titleSlug": "invalid-tweets",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825095672,
+              "runtime": "626 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Invalid Tweets/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825095672,
+              "runtime": "299 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "find-customer-referee": {
+          "questionId": "584",
+          "title": "Find Customer Referee",
+          "titleSlug": "find-customer-referee",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825095672,
+              "runtime": "485 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825095672,
+              "runtime": "0 ms",
+              "memory": "20.5 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
         }
