@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:45:38.011Z",
+  "lastUpdated": "2026-07-23T16:45:42.015Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2305,6 +2305,108 @@
               "runtime": "374 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Actors and Directors Who Cooperated At Least Three Times/"
+            }
+          }
+        },
+        "biggest-single-number": {
+          "questionId": "619",
+          "title": "Biggest Single Number",
+          "titleSlug": "biggest-single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825142015,
+              "runtime": "441 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Biggest Single Number/"
+            }
+          }
+        },
+        "delete-duplicate-emails": {
+          "questionId": "196",
+          "title": "Delete Duplicate Emails",
+          "titleSlug": "delete-duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825142015,
+              "runtime": "924 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Delete Duplicate Emails/"
+            }
+          }
+        },
+        "department-highest-salary": {
+          "questionId": "184",
+          "title": "Department Highest Salary",
+          "titleSlug": "department-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825142015,
+              "runtime": "635 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Department Highest Salary/"
+            }
+          }
+        },
+        "department-top-three-salaries": {
+          "questionId": "185",
+          "title": "Department Top Three Salaries",
+          "titleSlug": "department-top-three-salaries",
+          "difficulty": "Hard",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825142015,
+              "runtime": "1172 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Department Top Three Salaries/"
+            }
+          }
+        },
+        "employee-bonus": {
+          "questionId": "577",
+          "title": "Employee Bonus",
+          "titleSlug": "employee-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825142015,
+              "runtime": "914 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employee Bonus/"
+            }
+          }
+        },
+        "classes-with-at-least-5-students": {
+          "questionId": "596",
+          "title": "Classes With at Least 5 Students",
+          "titleSlug": "classes-with-at-least-5-students",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784825142015,
+              "runtime": "306 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Classes With at Least 5 Students/"
             }
           }
         }

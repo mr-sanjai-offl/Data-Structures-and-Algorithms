@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825138012" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1784825142015" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -88,14 +88,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
 | 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 183 | [Customers Who Never Order](./Database/Customers%20Who%20Never%20Order/) | Easy |
+| 184 | [Department Highest Salary](./Database/Department%20Highest%20Salary/) | Medium |
+| 185 | [Department Top Three Salaries](./Database/Department%20Top%20Three%20Salaries/) | Hard |
+| 196 | [Delete Duplicate Emails](./Database/Delete%20Duplicate%20Emails/) | Easy |
 | 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
 | 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
 | 570 | [Managers with at Least 5 Direct Reports](./Database/Managers%20with%20at%20Least%205%20Direct%20Reports/) | Medium |
+| 577 | [Employee Bonus](./Database/Employee%20Bonus/) | Easy |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](./Database/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 596 | [Classes With at Least 5 Students](./Database/Classes%20With%20at%20Least%205%20Students/) | Easy |
 | 607 | [Sales Person](./Database/Sales%20Person/) | Easy |
 | 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
+| 619 | [Biggest Single Number](./Database/Biggest%20Single%20Number/) | Easy |
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
 | 627 | [Swap Sex of Employees](./Database/Swap%20Sex%20of%20Employees/) | Easy |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](./Database/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times/) | Easy |
