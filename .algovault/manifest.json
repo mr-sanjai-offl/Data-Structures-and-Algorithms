@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T16:44:11.406Z",
+  "lastUpdated": "2026-07-23T16:44:17.241Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -520,6 +520,171 @@
               "runtime": "0 ms",
               "memory": "19.3 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Zigzag Level Order Traversal/"
+            }
+          }
+        },
+        "kth-smallest-element-in-a-bst": {
+          "questionId": "230",
+          "title": "Kth Smallest Element in a BST",
+          "titleSlug": "kth-smallest-element-in-a-bst",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784825057241,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Tree/Kth Smallest Element in a BST/"
+            },
+            "python3": {
+              "syncedAt": 1784825057241,
+              "runtime": "3 ms",
+              "memory": "22.1 MB",
+              "githubPath": "LeetCode/Tree/Kth Smallest Element in a BST/"
+            }
+          }
+        },
+        "convert-sorted-list-to-binary-search-tree": {
+          "questionId": "109",
+          "title": "Convert Sorted List to Binary Search Tree",
+          "titleSlug": "convert-sorted-list-to-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825057241,
+              "runtime": "6 ms",
+              "memory": "24.1 MB",
+              "githubPath": "LeetCode/Linked List/Convert Sorted List to Binary Search Tree/"
+            }
+          }
+        },
+        "convert-sorted-array-to-binary-search-tree": {
+          "questionId": "108",
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "titleSlug": "convert-sorted-array-to-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825057241,
+              "runtime": "0 ms",
+              "memory": "20.3 MB",
+              "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
+            }
+          }
+        },
+        "validate-binary-search-tree": {
+          "questionId": "98",
+          "title": "Validate Binary Search Tree",
+          "titleSlug": "validate-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825057241,
+              "runtime": "4 ms",
+              "memory": "20.9 MB",
+              "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
+            }
+          }
+        },
+        "climbing-stairs": {
+          "questionId": "70",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825057241,
+              "runtime": "0 ms",
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Math/Climbing Stairs/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal": {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825057241,
+              "runtime": "0 ms",
+              "memory": "20 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "invert-binary-tree": {
+          "questionId": "226",
+          "title": "Invert Binary Tree",
+          "titleSlug": "invert-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825057241,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Tree/Invert Binary Tree/"
+            }
+          }
+        },
+        "diameter-of-binary-tree": {
+          "questionId": "543",
+          "title": "Diameter of Binary Tree",
+          "titleSlug": "diameter-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784825057241,
+              "runtime": "4 ms",
+              "memory": "22 MB",
+              "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
             }
           }
         }
