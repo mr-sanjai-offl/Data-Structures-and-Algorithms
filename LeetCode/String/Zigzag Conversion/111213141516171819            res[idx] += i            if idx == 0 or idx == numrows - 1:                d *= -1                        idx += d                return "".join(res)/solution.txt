@@ -1,0 +1,9 @@
+            res[idx] += i
+
+            if idx == 0 or idx == numRows - 1:
+                d *= -1
+            
+            idx += d
+        
+        return "".join(res)
+

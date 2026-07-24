@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T18:02:16.676Z",
+  "lastUpdated": "2026-07-24T18:08:22.371Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3876,6 +3876,12 @@
               "syncedAt": 1784916136675,
               "runtime": "8 ms",
               "memory": "19.3 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            },
+            "111213141516171819            res[idx] += i            if idx == 0 or idx == numrows - 1:                d *= -1                        idx += d                return \"\".join(res)": {
+              "syncedAt": 1784916502371,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
             }
           }
