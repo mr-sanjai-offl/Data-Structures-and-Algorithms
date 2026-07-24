@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-23T17:27:18.149Z",
+  "lastUpdated": "2026-07-24T18:02:16.676Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3860,6 +3860,23 @@
               "runtime": "490 ms",
               "memory": "17 MB",
               "githubPath": "LeetCode/Array/Image Smoother/"
+            }
+          }
+        },
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784916136675,
+              "runtime": "8 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
             }
           }
         }
