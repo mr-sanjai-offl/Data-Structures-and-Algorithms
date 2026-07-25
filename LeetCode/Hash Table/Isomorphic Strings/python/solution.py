@@ -1,18 +1,18 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        #s,t = "badc","baba"
-        m1 = []
-        m2 = []
+        a = [0]*256
+        b = [0]*256
 
-        # for a,b in zip(s,t):
-        #     m1.append(s.index(a))
-        #     m2.append(t.index(b))
-        for a in s:
-            m1.append(s.index(a))
-        for a in t:
-            m2.append(t.index(a))
-        
-        if m1 != m2:
-            return False
+        for i in range(len(s)):
+            sch = ord(s[i])
+            tch = ord(t[i])
+            if a[sch] != 0 and a[sch] != tch:
+                return False
+            else:
+                a[sch] = tch
+
+            if b[tch] != 0 and b[tch] != sch:
+                return False
+            else:
+                b[tch] = sch
         return True
-        

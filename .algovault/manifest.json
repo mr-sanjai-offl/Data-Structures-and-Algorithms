@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T18:15:03.923Z",
+  "lastUpdated": "2026-07-25T13:42:05.767Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2029,9 +2029,9 @@
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1784825121756,
-              "runtime": "2 ms",
-              "memory": "19.8 MB",
+              "syncedAt": 1784986925767,
+              "runtime": "5 ms",
+              "memory": "19.4 MB",
               "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
             },
             "java": {
