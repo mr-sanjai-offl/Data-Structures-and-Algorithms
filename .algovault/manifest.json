@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T18:04:53.502Z",
+  "lastUpdated": "2026-07-25T18:05:02.022Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4033,20 +4033,22 @@
             }
           }
         },
-        "791-A": {
-          "questionId": "791A",
-          "title": "Bear and Big Brother",
-          "titleSlug": "791-A",
-          "difficulty": "800",
+        "299-A": {
+          "questionId": "299A",
+          "title": "Ksusha and Array",
+          "titleSlug": "299-A",
+          "difficulty": "1000",
           "tags": [
-            "implementation"
+            "brute force",
+            "number theory",
+            "sortings"
           ],
           "solutions": {
             "python": {
-              "syncedAt": 1785002693502,
-              "runtime": "78 ms",
-              "memory": "0 KB",
-              "githubPath": "Codeforces/implementation/Bear and Big Brother/"
+              "syncedAt": 1785002702022,
+              "runtime": "156 ms",
+              "memory": "13200 KB",
+              "githubPath": "Codeforces/brute force/Ksusha and Array/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=mr-sanjai-offl&theme=dark&v=1785002693515" width="100%" />
+  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=mr-sanjai-offl&theme=dark&v=1785002702022" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -29,6 +29,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 4A | [Watermelon](./brute%20force/Watermelon/) | 800 |
 | 231A | [Team](./brute%20force/Team/) | 800 |
+| 299A | [Ksusha and Array](./brute%20force/Ksusha%20and%20Array/) | 1000 |
 | 300A | [Array](./brute%20force/Array/) | 1100 |
 
 </details>
@@ -52,7 +53,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 282A | [Bit++](./implementation/Bit++/) | 800 |
-| 791A | [Bear and Big Brother](./implementation/Bear%20and%20Big%20Brother/) | 800 |
 
 </details>
 
