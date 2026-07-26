@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-25T18:05:02.022Z",
+  "lastUpdated": "2026-07-26T17:41:05.087Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3883,6 +3883,25 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785087665087,
+              "runtime": "0 ms",
+              "memory": "19.6 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             }
           }
         }
