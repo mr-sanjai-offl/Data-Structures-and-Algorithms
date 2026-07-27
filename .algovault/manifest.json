@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-26T17:41:05.087Z",
+  "lastUpdated": "2026-07-27T17:33:40.374Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3902,6 +3902,27 @@
               "runtime": "0 ms",
               "memory": "19.6 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785173620374,
+              "runtime": "24 ms",
+              "memory": "21 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
             }
           }
         }
