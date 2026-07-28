@@ -1,18 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        o=['(','{','[']
-        b = {')':'(','}':'{',']':'['}
-        t=[]
+        stack = []
 
         for i in s:
-            if i in o:
-                t.append(i)
-            elif len(t) != 0 and i in b and t[-1] == b[i]:
-                t.pop()
+            if i == '(' or i == '{' or i == '[':
+                stack.append(i)
             else:
-                return False
-        return t == []
-     
-
-        
-        
+                if not stack:
+                    return False
+                last = stack[-1]
+                if (last == '(' and i != ')') or (last == '[' and i != ']') or (last == '{' and i != '}'):
+                    return False
+                stack.pop()
+        return not stack
