@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-28T17:46:12.302Z",
+  "lastUpdated": "2026-07-28T17:52:41.721Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3923,6 +3923,23 @@
               "runtime": "24 ms",
               "memory": "21 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "create-a-dataframe-from-list": {
+          "questionId": "2877",
+          "title": "Create a DataFrame from List",
+          "titleSlug": "create-a-dataframe-from-list",
+          "difficulty": "Easy",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "pythondata": {
+              "syncedAt": 1785261161721,
+              "runtime": "275 ms",
+              "memory": "65.8 MB",
+              "githubPath": "LeetCode/General/Create a DataFrame from List/"
             }
           }
         }

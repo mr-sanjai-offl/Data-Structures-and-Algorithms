@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1785260772318" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1785261161737" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -179,6 +179,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 338 | [Counting Bits](./Dynamic%20Programming/Counting%20Bits/) | Easy |
+
+</details>
+
+
+### General
+<details>
+<summary>Click to expand General problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2877 | [Create a DataFrame from List](./General/Create%20a%20DataFrame%20from%20List/) | Easy |
 
 </details>
 
