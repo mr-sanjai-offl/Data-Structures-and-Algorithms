@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-28T17:52:41.721Z",
+  "lastUpdated": "2026-07-29T17:15:51.089Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3940,6 +3940,25 @@
               "runtime": "275 ms",
               "memory": "65.8 MB",
               "githubPath": "LeetCode/General/Create a DataFrame from List/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785345351088,
+              "runtime": "8604 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
             }
           }
         }
