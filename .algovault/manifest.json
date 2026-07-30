@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-29T17:15:51.089Z",
+  "lastUpdated": "2026-07-30T18:17:20.857Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3936,9 +3936,9 @@
           ],
           "solutions": {
             "pythondata": {
-              "syncedAt": 1785261161721,
-              "runtime": "275 ms",
-              "memory": "65.8 MB",
+              "syncedAt": 1785435440857,
+              "runtime": "255 ms",
+              "memory": "65.7 MB",
               "githubPath": "LeetCode/General/Create a DataFrame from List/"
             }
           }
