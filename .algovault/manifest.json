@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-30T18:17:20.857Z",
+  "lastUpdated": "2026-08-01T17:07:25.677Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3959,6 +3959,24 @@
               "runtime": "8604 ms",
               "memory": "19.3 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "reverse-bits": {
+          "questionId": "190",
+          "title": "Reverse Bits",
+          "titleSlug": "reverse-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785604045677,
+              "runtime": "41 ms",
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
             }
           }
         }
