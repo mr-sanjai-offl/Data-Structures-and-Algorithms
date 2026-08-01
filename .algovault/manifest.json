@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T17:08:28.459Z",
+  "lastUpdated": "2026-08-01T17:08:44.405Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3256,9 +3256,9 @@
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1784825177863,
+              "syncedAt": 1785604124405,
               "runtime": "0 ms",
-              "memory": "17.9 MB",
+              "memory": "19.3 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
             }
           }
@@ -3976,24 +3976,6 @@
               "runtime": "0 ms",
               "memory": "19.5 MB",
               "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
-            }
-          }
-        },
-        "binary-watch": {
-          "questionId": "401",
-          "title": "Binary Watch",
-          "titleSlug": "binary-watch",
-          "difficulty": "Easy",
-          "tags": [
-            "Backtracking",
-            "Bit Manipulation"
-          ],
-          "solutions": {
-            "python3": {
-              "syncedAt": 1785604108459,
-              "runtime": "3 ms",
-              "memory": "19.2 MB",
-              "githubPath": "LeetCode/Backtracking/Binary Watch/"
             }
           }
         }

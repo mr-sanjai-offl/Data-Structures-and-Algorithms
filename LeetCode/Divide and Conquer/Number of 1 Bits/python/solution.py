@@ -1,7 +1,20 @@
 class Solution:
     def hammingWeight(self, n: int) -> int:
-        count = 0
-        while n != 0:
-            n &= (n - 1)  # Clears the rightmost set bit
-            count += 1
-        return count
+        #recursion
+        # if n == 1:
+        #     return 1
+        # return n%2 + self.hammingWeight(n//2)
+
+        #string
+        # return bin(n)[2:].count('1')
+        
+        #USING RIGHT SHIFT
+        w = 0
+        for i in range(32):
+            w += n >> i & 1
+        return w
+
+        
+
+
+
