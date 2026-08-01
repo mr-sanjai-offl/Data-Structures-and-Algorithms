@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T17:07:25.677Z",
+  "lastUpdated": "2026-08-01T17:08:12.551Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3962,21 +3962,20 @@
             }
           }
         },
-        "reverse-bits": {
-          "questionId": "190",
-          "title": "Reverse Bits",
-          "titleSlug": "reverse-bits",
+        "hamming-distance": {
+          "questionId": "461",
+          "title": "Hamming Distance",
+          "titleSlug": "hamming-distance",
           "difficulty": "Easy",
           "tags": [
-            "Divide and Conquer",
             "Bit Manipulation"
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1785604045677,
-              "runtime": "41 ms",
-              "memory": "19.2 MB",
-              "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
+              "syncedAt": 1785604092551,
+              "runtime": "0 ms",
+              "memory": "19.5 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
             }
           }
         }
