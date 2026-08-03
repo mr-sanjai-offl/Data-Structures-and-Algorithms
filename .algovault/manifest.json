@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T17:08:44.405Z",
+  "lastUpdated": "2026-08-03T17:40:33.116Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3976,6 +3976,23 @@
               "runtime": "0 ms",
               "memory": "19.5 MB",
               "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
+            }
+          }
+        },
+        "minimum-bit-flips-to-convert-number": {
+          "questionId": "2220",
+          "title": "Minimum Bit Flips to Convert Number",
+          "titleSlug": "minimum-bit-flips-to-convert-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785778833115,
+              "runtime": "0 ms",
+              "memory": "19.3 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Minimum Bit Flips to Convert Number/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1785604124406" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1785778833132" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -111,6 +111,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
+| 2220 | [Minimum Bit Flips to Convert Number](./Bit%20Manipulation/Minimum%20Bit%20Flips%20to%20Convert%20Number/) | Easy |
 | 2595 | [Number of Even and Odd Bits](./Bit%20Manipulation/Number%20of%20Even%20and%20Odd%20Bits/) | Easy |
 
 </details>
