@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:40:33.116Z",
+  "lastUpdated": "2026-08-03T17:40:42.784Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3979,20 +3979,20 @@
             }
           }
         },
-        "minimum-bit-flips-to-convert-number": {
-          "questionId": "2220",
-          "title": "Minimum Bit Flips to Convert Number",
-          "titleSlug": "minimum-bit-flips-to-convert-number",
-          "difficulty": "Easy",
+        "bitwise-and-of-numbers-range": {
+          "questionId": "201",
+          "title": "Bitwise AND of Numbers Range",
+          "titleSlug": "bitwise-and-of-numbers-range",
+          "difficulty": "Medium",
           "tags": [
             "Bit Manipulation"
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1785778833115,
+              "syncedAt": 1785778842784,
               "runtime": "0 ms",
-              "memory": "19.3 MB",
-              "githubPath": "LeetCode/Bit Manipulation/Minimum Bit Flips to Convert Number/"
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Bitwise AND of Numbers Range/"
             }
           }
         }
