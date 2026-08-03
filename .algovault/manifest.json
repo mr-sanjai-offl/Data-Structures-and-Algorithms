@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:41:09.885Z",
+  "lastUpdated": "2026-08-03T17:41:22.373Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3655,9 +3655,9 @@
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1784825197552,
-              "runtime": "4 ms",
-              "memory": "17.7 MB",
+              "syncedAt": 1785778882373,
+              "runtime": "2 ms",
+              "memory": "19.2 MB",
               "githubPath": "LeetCode/Math/Power of Four/"
             }
           }
@@ -3976,23 +3976,6 @@
               "runtime": "0 ms",
               "memory": "19.5 MB",
               "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
-            }
-          }
-        },
-        "number-complement": {
-          "questionId": "476",
-          "title": "Number Complement",
-          "titleSlug": "number-complement",
-          "difficulty": "Easy",
-          "tags": [
-            "Bit Manipulation"
-          ],
-          "solutions": {
-            "python3": {
-              "syncedAt": 1785778869884,
-              "runtime": "0 ms",
-              "memory": "19.2 MB",
-              "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
             }
           }
         }
