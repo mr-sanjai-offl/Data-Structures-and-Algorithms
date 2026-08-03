@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1785778855122" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1785778869886" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -50,7 +50,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
-| 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
@@ -112,6 +111,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
+| 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
 | 2595 | [Number of Even and Odd Bits](./Bit%20Manipulation/Number%20of%20Even%20and%20Odd%20Bits/) | Easy |
 
 </details>

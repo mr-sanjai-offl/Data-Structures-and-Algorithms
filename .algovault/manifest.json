@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:40:55.120Z",
+  "lastUpdated": "2026-08-03T17:41:09.885Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3979,21 +3979,20 @@
             }
           }
         },
-        "single-number-iii": {
-          "questionId": "260",
-          "title": "Single Number III",
-          "titleSlug": "single-number-iii",
-          "difficulty": "Medium",
+        "number-complement": {
+          "questionId": "476",
+          "title": "Number Complement",
+          "titleSlug": "number-complement",
+          "difficulty": "Easy",
           "tags": [
-            "Array",
             "Bit Manipulation"
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1785778855120,
+              "syncedAt": 1785778869884,
               "runtime": "0 ms",
-              "memory": "21 MB",
-              "githubPath": "LeetCode/Array/Single Number III/"
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
             }
           }
         }
