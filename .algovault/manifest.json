@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:41:33.524Z",
+  "lastUpdated": "2026-08-03T17:41:45.426Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3184,9 +3184,9 @@
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1785778893524,
-              "runtime": "0 ms",
-              "memory": "19.3 MB",
+              "syncedAt": 1784825177863,
+              "runtime": "3 ms",
+              "memory": "18 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
             }
           }
@@ -3296,9 +3296,9 @@
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1784825177863,
-              "runtime": "15 ms",
-              "memory": "18.7 MB",
+              "syncedAt": 1785778905426,
+              "runtime": "88 ms",
+              "memory": "20.6 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
             }
           }
