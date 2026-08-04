@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T18:38:32.495Z",
+  "lastUpdated": "2026-08-04T16:46:23.719Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3976,6 +3976,24 @@
               "runtime": "0 ms",
               "memory": "19.5 MB",
               "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785861983719,
+              "runtime": "399 ms",
+              "memory": "19.4 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
             }
           }
         }
