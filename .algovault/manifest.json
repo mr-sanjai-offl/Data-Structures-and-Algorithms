@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T16:46:23.719Z",
+  "lastUpdated": "2026-08-04T16:46:40.107Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3979,21 +3979,22 @@
             }
           }
         },
-        "permutation-sequence": {
-          "questionId": "60",
-          "title": "Permutation Sequence",
-          "titleSlug": "permutation-sequence",
-          "difficulty": "Hard",
+        "permutations-ii": {
+          "questionId": "47",
+          "title": "Permutations II",
+          "titleSlug": "permutations-ii",
+          "difficulty": "Medium",
           "tags": [
-            "Math",
-            "Recursion"
+            "Array",
+            "Backtracking",
+            "Sorting"
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1785861983719,
-              "runtime": "399 ms",
-              "memory": "19.4 MB",
-              "githubPath": "LeetCode/Math/Permutation Sequence/"
+              "syncedAt": 1785862000107,
+              "runtime": "554 ms",
+              "memory": "19.9 MB",
+              "githubPath": "LeetCode/Array/Permutations II/"
             }
           }
         }
