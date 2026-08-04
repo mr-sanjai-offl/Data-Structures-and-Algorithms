@@ -1,14 +1,30 @@
+# from itertools import permutations
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
+        # return [i for i in permutations(nums,len(nums))]
+        used = [False] * len(nums)
         res = []
-        def backtrack(st):
-            if st == len(nums):
-                res.append(nums[:])
-            for i in range(st, len(nums)):
-                nums[st], nums[i] = nums[i], nums[st]
-                backtrack(st+1)
-                nums[st], nums[i] = nums[i], nums[st]
 
-        backtrack(0)
+        def dfs(path):
+            
+            if len(path) == len(nums):
+                res.append(path[:])
+                return
+
+            for i in range(len(nums)):
+
+                if used[i]:
+                    continue
+                
+                used[i] = True
+                path.append(nums[i])
+
+                dfs(path)
+
+                path.pop()
+                used[i] = False
+        
+        dfs([])
         return res
+
         

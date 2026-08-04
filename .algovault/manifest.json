@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T16:46:40.107Z",
+  "lastUpdated": "2026-08-04T16:46:59.818Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -848,9 +848,9 @@
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1784825063396,
+              "syncedAt": 1785862019817,
               "runtime": "0 ms",
-              "memory": "19.3 MB",
+              "memory": "19.5 MB",
               "githubPath": "LeetCode/Array/Permutations/"
             }
           }
@@ -3976,25 +3976,6 @@
               "runtime": "0 ms",
               "memory": "19.5 MB",
               "githubPath": "LeetCode/Bit Manipulation/Hamming Distance/"
-            }
-          }
-        },
-        "permutations-ii": {
-          "questionId": "47",
-          "title": "Permutations II",
-          "titleSlug": "permutations-ii",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Backtracking",
-            "Sorting"
-          ],
-          "solutions": {
-            "python3": {
-              "syncedAt": 1785862000107,
-              "runtime": "554 ms",
-              "memory": "19.9 MB",
-              "githubPath": "LeetCode/Array/Permutations II/"
             }
           }
         }
