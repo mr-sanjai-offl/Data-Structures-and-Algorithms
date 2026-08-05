@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-04T16:47:17.006Z",
+  "lastUpdated": "2026-08-05T16:20:23.885Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3995,6 +3995,27 @@
               "runtime": "6 ms",
               "memory": "19.5 MB",
               "githubPath": "LeetCode/Array/Subsets II/"
+            }
+          }
+        },
+        "number-of-good-ways-to-split-a-string": {
+          "questionId": "1525",
+          "title": "Number of Good Ways to Split a String",
+          "titleSlug": "number-of-good-ways-to-split-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1785946823885,
+              "runtime": "378 ms",
+              "memory": "19.6 MB",
+              "githubPath": "LeetCode/Hash Table/Number of Good Ways to Split a String/"
             }
           }
         }
