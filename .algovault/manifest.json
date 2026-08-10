@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T15:17:51.071Z",
+  "lastUpdated": "2026-08-10T16:29:01.318Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4016,6 +4016,23 @@
               "runtime": "378 ms",
               "memory": "19.6 MB",
               "githubPath": "LeetCode/Hash Table/Number of Good Ways to Split a String/"
+            }
+          }
+        },
+        "get-the-size-of-a-dataframe": {
+          "questionId": "2878",
+          "title": "Get the Size of a DataFrame",
+          "titleSlug": "get-the-size-of-a-dataframe",
+          "difficulty": "Easy",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "pythondata": {
+              "syncedAt": 1786379341317,
+              "runtime": "248 ms",
+              "memory": "66.7 MB",
+              "githubPath": "LeetCode/General/Get the Size of a DataFrame/"
             }
           }
         }
