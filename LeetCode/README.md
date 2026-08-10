@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1786379341335" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1786379368827" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -192,7 +192,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2877 | [Create a DataFrame from List](./General/Create%20a%20DataFrame%20from%20List/) | Easy |
-| 2878 | [Get the Size of a DataFrame](./General/Get%20the%20Size%20of%20a%20DataFrame/) | Easy |
+| 2879 | [Display the First Three Rows](./General/Display%20the%20First%20Three%20Rows/) | Easy |
 
 </details>
 

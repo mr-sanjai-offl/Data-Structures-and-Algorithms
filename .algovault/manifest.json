@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T16:29:01.318Z",
+  "lastUpdated": "2026-08-10T16:29:28.826Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4019,20 +4019,20 @@
             }
           }
         },
-        "get-the-size-of-a-dataframe": {
-          "questionId": "2878",
-          "title": "Get the Size of a DataFrame",
-          "titleSlug": "get-the-size-of-a-dataframe",
+        "display-the-first-three-rows": {
+          "questionId": "2879",
+          "title": "Display the First Three Rows",
+          "titleSlug": "display-the-first-three-rows",
           "difficulty": "Easy",
           "tags": [
             "General"
           ],
           "solutions": {
             "pythondata": {
-              "syncedAt": 1786379341317,
-              "runtime": "248 ms",
-              "memory": "66.7 MB",
-              "githubPath": "LeetCode/General/Get the Size of a DataFrame/"
+              "syncedAt": 1786379368826,
+              "runtime": "351 ms",
+              "memory": "67 MB",
+              "githubPath": "LeetCode/General/Display the First Three Rows/"
             }
           }
         }
