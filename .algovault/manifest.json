@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T16:29:28.826Z",
+  "lastUpdated": "2026-08-10T16:29:54.868Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4019,20 +4019,20 @@
             }
           }
         },
-        "display-the-first-three-rows": {
-          "questionId": "2879",
-          "title": "Display the First Three Rows",
-          "titleSlug": "display-the-first-three-rows",
+        "select-data": {
+          "questionId": "2880",
+          "title": "Select Data",
+          "titleSlug": "select-data",
           "difficulty": "Easy",
           "tags": [
             "General"
           ],
           "solutions": {
             "pythondata": {
-              "syncedAt": 1786379368826,
-              "runtime": "351 ms",
-              "memory": "67 MB",
-              "githubPath": "LeetCode/General/Display the First Three Rows/"
+              "syncedAt": 1786379394868,
+              "runtime": "291 ms",
+              "memory": "67.2 MB",
+              "githubPath": "LeetCode/General/Select Data/"
             }
           }
         }
