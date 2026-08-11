@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T16:29:54.868Z",
+  "lastUpdated": "2026-08-11T16:48:45.309Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4033,6 +4033,28 @@
               "runtime": "291 ms",
               "memory": "67.2 MB",
               "githubPath": "LeetCode/General/Select Data/"
+            }
+          }
+        },
+        "construct-binary-search-tree-from-preorder-traversal": {
+          "questionId": "1008",
+          "title": "Construct Binary Search Tree from Preorder Traversal",
+          "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Tree",
+            "Binary Search Tree",
+            "Monotonic Stack",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1786466925309,
+              "runtime": "0 ms",
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Array/Construct Binary Search Tree from Preorder Traversal/"
             }
           }
         }

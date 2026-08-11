@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1786379394870" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1786466925325" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -78,6 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 977 | [Squares of a Sorted Array](./Array/Squares%20of%20a%20Sorted%20Array/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 1002 | [Find Common Characters](./Array/Find%20Common%20Characters/) | Easy |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](./Array/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/) | Medium |
 | 1051 | [Height Checker](./Array/Height%20Checker/) | Easy |
 | 1089 | [Duplicate Zeros](./Array/Duplicate%20Zeros/) | Easy |
 | 1207 | [Unique Number of Occurrences](./Array/Unique%20Number%20of%20Occurrences/) | Easy |
