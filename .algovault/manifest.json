@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-15T16:36:00.028Z",
+  "lastUpdated": "2026-08-15T16:36:26.357Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -144,7 +144,7 @@
           ],
           "solutions": {
             "python3": {
-              "syncedAt": 1784825035340,
+              "syncedAt": 1786811786357,
               "runtime": "23 ms",
               "memory": "21.8 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
@@ -4095,24 +4095,6 @@
               "runtime": "3 ms",
               "memory": "12.6 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
-            }
-          }
-        },
-        "reverse-bits": {
-          "questionId": "190",
-          "title": "Reverse Bits",
-          "titleSlug": "reverse-bits",
-          "difficulty": "Easy",
-          "tags": [
-            "Divide and Conquer",
-            "Bit Manipulation"
-          ],
-          "solutions": {
-            "python3": {
-              "syncedAt": 1786811760028,
-              "runtime": "41 ms",
-              "memory": "19.2 MB",
-              "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
             }
           }
         }
