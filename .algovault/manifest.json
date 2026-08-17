@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-15T16:36:26.357Z",
+  "lastUpdated": "2026-08-17T16:07:29.578Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4095,6 +4095,23 @@
               "runtime": "3 ms",
               "memory": "12.6 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
+            }
+          }
+        },
+        "consecutive-numbers": {
+          "questionId": "180",
+          "title": "Consecutive Numbers",
+          "titleSlug": "consecutive-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786982849577,
+              "runtime": "845 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Consecutive Numbers/"
             }
           }
         }
