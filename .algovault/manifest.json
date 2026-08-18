@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T16:07:29.578Z",
+  "lastUpdated": "2026-08-18T18:19:40.558Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4112,6 +4112,23 @@
               "runtime": "845 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Consecutive Numbers/"
+            }
+          }
+        },
+        "drop-duplicate-rows": {
+          "questionId": "2882",
+          "title": "Drop Duplicate Rows",
+          "titleSlug": "drop-duplicate-rows",
+          "difficulty": "Easy",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "pythondata": {
+              "syncedAt": 1787077180558,
+              "runtime": "295 ms",
+              "memory": "66.8 MB",
+              "githubPath": "LeetCode/General/Drop Duplicate Rows/"
             }
           }
         }
