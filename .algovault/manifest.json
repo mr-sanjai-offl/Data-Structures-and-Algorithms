@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T18:20:43.344Z",
+  "lastUpdated": "2026-08-21T17:14:54.420Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4125,9 +4125,9 @@
           ],
           "solutions": {
             "pythondata": {
-              "syncedAt": 1787077180558,
-              "runtime": "295 ms",
-              "memory": "66.8 MB",
+              "syncedAt": 1787332494420,
+              "runtime": "264 ms",
+              "memory": "67 MB",
               "githubPath": "LeetCode/General/Drop Duplicate Rows/"
             }
           }
