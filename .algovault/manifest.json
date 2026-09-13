@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-13T07:03:25.747Z",
+  "lastUpdated": "2026-09-13T07:08:02.233Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3413,6 +3413,12 @@
               "syncedAt": 1789283005747,
               "runtime": "0 ms",
               "memory": "23.7 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            },
+            "12345671289111514131016class solution {public:    void movezeroes(vector<int>& nums) {        int n = nums.size();        int i = 0,c=0;        for(int j : nums){            if(j==0) c++;        }            else{                nums.at(i) = j;            }    }            for(i;i<n;i++) nums.at(i) = 0;                i++;};": {
+              "syncedAt": 1789283282233,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Move Zeroes/"
             }
           }
