@@ -1,12 +1,12 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        n = len(s)
+        def expand(l,r):
+            while l >= 0 and r < len(s) and s[l] == s[r]:
+                l -= 1
+                r += 1
+            return s[l+1:r]
         res = ""
-        max_len = 0
-        for i in range(n):
-            for j in range(i+1,n+1):
-                st = s[i:j]
-                if st == st[::-1] and len(st) > max_len:
-                    max_len = len(st)
-                    res = st
+        for i in range(len(s)):
+            res = max(res, expand(i,i), key=len) #odd length
+            res = max(res, expand(i,i+1), key=len) #even length
         return res
