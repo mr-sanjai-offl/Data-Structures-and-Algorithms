@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1790645447471" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/mr_sanjai_offl?theme=tokyonight&show=graph,recent&v=1790777376675" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -308,6 +308,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
+| 1143 | [Longest Common Subsequence](./String/Longest%20Common%20Subsequence/) | Medium |
 | 1422 | [Maximum Score After Splitting a String](./String/Maximum%20Score%20After%20Splitting%20a%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1859 | [Sorting the Sentence](./String/Sorting%20the%20Sentence/) | Easy |

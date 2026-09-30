@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-29T01:30:47.455Z",
+  "lastUpdated": "2026-09-30T14:09:36.659Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4178,6 +4178,25 @@
               "runtime": "15 ms",
               "memory": "19.3 MB",
               "githubPath": "LeetCode/Array/Longest Increasing Subsequence/"
+            }
+          }
+        },
+        "longest-common-subsequence": {
+          "questionId": "1143",
+          "title": "Longest Common Subsequence",
+          "titleSlug": "longest-common-subsequence",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Longest Common Subsequence"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1790777376659,
+              "runtime": "354 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/String/Longest Common Subsequence/"
             }
           }
         }
